@@ -42,6 +42,6 @@
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=frek666&column=3&&theme=darkhub&margin-w=15&margin-h=15)-->
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=frek666&count_private=true&include_all_commits=true" />
+  <!--<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=frek666&count_private=true&include_all_commits=true" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frek666&layout=compact" />
 </div>
