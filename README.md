@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MORAITTI&show_icons=true&theme=tokyonight)
+<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MORAITTI&show_icons=true&theme=tokyonight)-->
 
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=MORAITTI&column=3&&theme=darkhub&margin-w=15&margin-h=15)-->
 
