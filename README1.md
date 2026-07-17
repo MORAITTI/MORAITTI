@@ -1,5 +1,5 @@
-```md
 <div align="center">
+```md
 
 # ☠ ARMORED CORE // ULTRA COMBAT DOSSIER ☠
 
