@@ -57,7 +57,7 @@ TACTICAL DOCTRINE...... Build Fast • Refactor Hard • Deploy Clean
 ![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000)
-![linux](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000)
+![linux](https://img.shields.io/badge/linux-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000)
 
 </div>
 
