@@ -1,5 +1,4 @@
 <div align="center">
-```md
 
 # ☠ ARMORED CORE // ULTRA COMBAT DOSSIER ☠
 
@@ -110,5 +109,4 @@ TACTICAL DOCTRINE...... Build Fast • Refactor Hard • Deploy Clean
 "Steel in hands. Fire in eyes. Clean code in production."
 ```
 
-</div>
-```
+
