@@ -4,8 +4,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWczZmh6b3lwY2twN2czdjRseWNjZTBsMTEwMjJseXlreWpncGt6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0PYsP1NAO4tzA2WJjJ/giphy.gif" width="600"/>
 </div>
 
-# ☠ ARMORED CORE // ULTRA COMBAT DOSSIER ☠
-
 ```txt
 ┌ BOOTLOADER v4.77 ────────────────────────────────
 │ PILOT............. MORAITTI
