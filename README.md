@@ -59,8 +59,8 @@ TACTICAL DOCTRINE...... Build Fast • Refactor Hard • Deploy Clean
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=black)
 
 </div>
 
