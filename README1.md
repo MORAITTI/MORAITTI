@@ -25,6 +25,7 @@
 - **Focus:** `Web Systems • Backend Reliability • Developer Experience`
 - **Current Objective:** `Designing robust, scalable applications`
 - **Doctrine:** `Clean architecture. Fast iteration. Measurable impact.`
+- **Philosophy:** “Ship fast. Refactor smart. Never stop evolving.”
 
 ---
 
