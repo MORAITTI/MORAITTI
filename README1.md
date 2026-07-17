@@ -66,8 +66,8 @@ TACTICAL DOCTRINE...... Build Fast • Refactor Hard • Deploy Clean
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MORAITTI&theme=red_black)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MORAITTI&theme=red_black)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MORAITTI&theme=omni)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MORAITTI&theme=omni)
 
 
 </div>
