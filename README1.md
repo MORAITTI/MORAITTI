@@ -1,0 +1,9 @@
+<div align="center">
+
+# ⚙️ PILOT PROFILE // MORAITTI
+
+```txt
+> BOOTING NEURAL FRAME...
+> LINK: ESTABLISHED
+> PILOT ID: MORAITTI
+> STATUS: ONLINE
