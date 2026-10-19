@@ -117,6 +117,3 @@ TACTICAL DOCTRINE...... Build Fast • Refactor Hard • Deploy Clean
 
 "Steel in hands. Fire in eyes. Clean code in production."
 ```
-
-
-![ASCII pet](https://raw.githubusercontent.com/MORAITTI/ascii-pet/refs/heads/main/pet.svg)
